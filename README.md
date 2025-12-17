@@ -12,14 +12,14 @@
 
 Este projeto aborda a temática de eventos climáticos extremos sob a ótica da ciência cidadã e de Governo Aberto. O objetivo central foi investigar e propor soluções onde a participação social e o uso de dados abertos possam auxiliar na prevenção, monitoramento e resposta a desastres.
 
-Neste repositório, você encontrará a documentação final (apresentação, slides e relatório) e o referencial teórico que embasou o trabalho.
+Neste repositório, você encontrará a documentação final (apresentação, slides e relatório) e o principal referencial teórico que embasou o trabalho.
 
 ---
 
 ## 📂 Estrutura do Repositório
 
 * **`/Apresentacao Final`**: Contém os relatórios finais, apresentação em vídeo e os slides do projeto.
-* **`/Referencias`**: Artigos base, bibliografia e materiais de leitura utilizados.
+* **`/Referencias`**: Principais artigos base, bibliografia e materiais de leitura utilizados.
 
 ---
 
