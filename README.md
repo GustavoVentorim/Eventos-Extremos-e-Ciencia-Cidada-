@@ -31,7 +31,7 @@ Trabalho desenvolvido pelo grupo:
 * **GABRIEL VENTORIM SILVA**
 * **GUSTAVO VENTORIM SILVA**
 * **MARCOS VILELA REZENDE JÚNIOR**
-* **KAIO CEZAR**
+* **CAIO CEZAR**
 
 ---
 
